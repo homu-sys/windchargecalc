@@ -4,7 +4,7 @@ simple minecraft wind charge calculator.
 
 ## demo
 
-https://github.com/homu-sys/windchargecalc/assets/demo.mp4
+<video src="demo.mp4" controls width="100%"></video>
 
 ## files
 
